@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Mahesha
+#👋 Hi there, I'm Mahesha
 Embedded Software Developer | Embedded Software Design & Architecture Enthusiast | RTOS & IoT Expert
 
 
-# 💡 About Me
+#💡 About Me
 🎯 Passionate about designing efficient embedded systems that bridge hardware and software.
 🔧 Experienced in developing firmware and applications for microcontrollers, IoT devices, and real-time systems.
 🚀 A seasoned embedded software architect with a passion for designing scalable and efficient systems.
 📡 Focused on IoT, edge computing, and optimizing system performance across various platforms.
 
-# 🧰 Technical Expertise
+#🧰 Technical Expertise
 ## 🛠 &nbsp;Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
@@ -18,6 +18,20 @@ Embedded Software Developer | Embedded Software Design & Architecture Enthusiast
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-05122A?style=flat&logo=CodeBlocks)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=007ACC)&nbsp;
+
+## Architectural Design
+
+#📬 Connect with Me
+📧 Email: mahesha.mutharayappa@gmail.com
+<!--
+💼 LinkedIn: linkedin.com/in/yourusername
+🌍 Website/Portfolio: www.yourwebsite.com
+-->
+
+#📜 Fun Facts
+🔌 Favorite Microcontroller: ESP32
+🌟 Side Projects: Building micro maze solver robot, user utility mobile apps with MFA
+🎮 Hobby: Cycling, Bike riding, photography
 
 <!--
 **Mahesha-M/Mahesha-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
