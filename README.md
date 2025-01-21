@@ -16,6 +16,9 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![shell-script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=script)&nbsp;
+
 
 ## Frameworks & Tools
 ![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
