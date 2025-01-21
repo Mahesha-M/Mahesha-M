@@ -1,16 +1,15 @@
-## 👋 Hi there, I'm Mahesha
+# 👋 Hi there, I'm Mahesha
 Embedded Software Developer | Embedded Software Design & Architecture Enthusiast | RTOS & IoT Expert
 
 
-## 💡 About Me
+# 💡 About Me
 🎯 Passionate about designing efficient embedded systems that bridge hardware and software.
 🔧 Experienced in developing firmware and applications for microcontrollers, IoT devices, and real-time systems.
 🚀 A seasoned embedded software architect with a passion for designing scalable and efficient systems.
 📡 Focused on IoT, edge computing, and optimizing system performance across various platforms.
 
-### 🧰 Technical Expertise
-# Programming Languages
-# 🛠 &nbsp;Tech Stack
+# 🧰 Technical Expertise
+## 🛠 &nbsp;Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
