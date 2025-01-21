@@ -11,16 +11,12 @@
   
   📡 Focused on IoT, edge computing, and optimizing system performance across various platforms.
 
-# 🧰 Technical Expertise
-## Programming Languages
+# 🧰 Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![shell-script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=script)&nbsp;
-
-
-## Frameworks & Tools
 ![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -28,10 +24,13 @@
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-05122A?style=flat&logo=CodeBlocks)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse&logoColor=007ACC)&nbsp;
 
-## Architectural Design
-
 # 📚 Notable Projects
-## 1️⃣ Energy Metering
+## 1️⃣ Eclipse Kanto
+
+## 2️⃣ Energy Metering for House & Industies
+
+## 3️⃣
+
 
 # 📬 Connect with Me
 📧 Email: mahesha.mutharayappa@gmail.com
@@ -42,7 +41,9 @@
 
 # 📜 Fun Facts
 🔌 Favorite Microcontroller: ESP32
+
 🌟 Side Projects: Building micro maze solver robot, user utility mobile apps with MFA
+
 🎮 Hobby: Cycling, Bike riding, photography
 
 <!--
