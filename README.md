@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Mahesha
-###### Embedded Software Developer | Embedded Software Design & Architecture Enthusiast | RTOS & IoT Expert
+###### Embedded Software Developer | Embedded Software Design & Architecture Enthusiast | RTOS & IoT Developer
 <img alt="Coder GIF" height=300 width=450 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/coding.gif" />
 
 # 💡 About Me
