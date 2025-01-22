@@ -44,7 +44,7 @@
 ## 🚀 Current Project
 I’m currently working on Eclipse Kanto. Feel free to check it out and contribute!
 ## 🌟 Side Projects
-When I’m not coding, I’m building side projects like robots and mobile apps, just to keep my creativity flowing! 🎨
+Whenever I find free time, I’m building AMRs and mobile apps, just to keep my creativity flowing! 🎨
 ## 🔌 404 Error
 I don’t always have the answer, but I’ll find it... eventually
 ## 🎮 Hobbies
