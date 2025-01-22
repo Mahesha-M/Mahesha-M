@@ -7,7 +7,7 @@
   
   🔧 Experienced in developing firmware and applications for microcontrollers, IoT devices, and real-time systems.
   
-  🚀 A seasoned embedded software architect with a passion for designing scalable and efficient systems.
+  ⏳ A seasoned embedded software architect with a passion for designing scalable and efficient systems.
   
   📡 Focused on IoT, edge computing, and optimizing system performance across various platforms.
 
@@ -18,7 +18,6 @@
 ![go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![shell-script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=script)&nbsp;
 ![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-05122A?style=flat&logo=CodeBlocks)&nbsp;
@@ -27,24 +26,31 @@
 # 📚 Notable Projects
 ## 1️⃣ Eclipse Kanto
 
-## 2️⃣ Energy Metering for House & Industies
+## 2️⃣ PowerBat
 
-## 3️⃣
+## 3️⃣ Robotics
 
 
 # 📬 Connect with Me
 📧 Email: mahesha.mutharayappa@gmail.com
+
+📱 Instagram: mahesha_m_
 <!--
 💼 LinkedIn: linkedin.com/in/yourusername
 🌍 Website/Portfolio: www.yourwebsite.com
 -->
 
 # 📜 Fun Facts
-🔌 Favorite Microcontroller: ESP32
+## 🚀 Current Project
+I’m currently working on Eclipse Kanto. Feel free to check it out and contribute!
+## 🌟 Side Projects
+When I’m not coding, I’m building side projects like robots and mobile apps, just to keep my creativity flowing! 🎨
+## 🔌 404 Error
+I don’t always have the answer, but I’ll find it... eventually
+## 🎮 Hobbies
+Cycling, Bike riding, photography
 
-🌟 Side Projects: Building micro maze solver robot, user utility mobile apps with MFA
-
-🎮 Hobby: Cycling, Bike riding, photography
+<img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic1.JPG" /><img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic4.jpg" /><img alt="Coder GIF" height=200 width=300 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic2.JPG" />
 
 <!--
 **Mahesha-M/Mahesha-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
