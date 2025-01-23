@@ -50,7 +50,7 @@ I don’t always have the answer, but I’ll find it... eventually
 ## 🎮 Hobbies
 Cycling, Bike riding, photography
 
-<img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic1.JPG" /><img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic4.jpg" /><img alt="Coder GIF" height=200 width=300 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic2.JPG" /><img alt="Coder GIF" height=200 width=300 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/_DSC0079.JPG" />
+<img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic1.JPG" /><img alt="Coder GIF" height=200 width=300 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic2.JPG" /><img alt="Coder GIF" height=200 width=150 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic4.jpg" /><img alt="Coder GIF" height=200 width=100 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/pics/pic6.JPG" />
 
 
 <!--
