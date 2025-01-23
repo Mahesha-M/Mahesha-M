@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Mahesha
-###### Embedded Software Developer | Embedded Software Design & Architecture Enthusiast | RTOS & IoT Developer
+###### Embedded Software Developer | Software Design & Architecture Enthusiast | RTOS & IoT Engineer
 <img alt="Coder GIF" height=300 width=450 src="https://github.com/Mahesha-M/Mahesha-M/blob/main/coding.gif" />
 
 # 💡 About Me
   🎯 Passionate about designing efficient embedded systems that bridge hardware and software.
   
-  🔧 Experienced in developing firmware and applications for microcontrollers, IoT devices, and real-time systems.
+  🔧 Experienced in developing firmware and applications for real-time systems.
   
   ⏳ A seasoned embedded software architect with a passion for designing scalable and efficient systems.
   
